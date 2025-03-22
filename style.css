@@ -1,0 +1,150 @@
+.block0{
+    background-color: #1f2937;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    margin: 0;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: 'roboto';
+}
+.headerlink{
+    color:#e5e7eb;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+    padding: 10px 20px;
+}
+.hero{
+    background-color: #1f2937;
+    color: white;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-style: 'roboto';
+}
+.hero-text{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.hero-sec{
+    font-size: 24px;
+}
+.button1{
+    background-color:#3882f6;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+}
+.hero-img{
+    width:600px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+.info{
+    color:#1f2937;
+    font-size: 36px;
+    font-weight: 900;
+    padding: 70px;
+    text-align: center;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+.info-boxes{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.box{
+    padding: 5px 5px;
+    border: 5px solid #3882f6;
+    flex:1;
+    text-align: center;
+    border-radius: 5px;
+}
+.box-text{
+    font-size: 20px;
+    font-weight: 100;
+}
+.info-box img {
+    display: block;
+    margin: 0 auto;
+}
+.block3{
+    background-color:#e5e7eb;
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    margin: 0;
+    font-style: italic;
+    color:#1f2937;
+    font-size: 36px;  
+}
+.chris{
+    font-weight: 600;
+    margin-top: 50px;
+}
+.footer{
+    background-color: #1f2937;
+    display: flex;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.call-to-action {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3882F6;
+    padding: 30px;
+    border-radius: 10px;
+    width: 900px;
+    color: white;
+}
+.call-to-action-container {
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    color: white;
+}
+
+.button-container {
+    align-content: center;
+    margin: 0;
+}
+
+.sign-up-2 {
+    background-color:#3882F6;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 20px ;
+    border: none;
+    border-radius: 12px;
+}
+
+.call-text-container {
+   margin: 0;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;
+}
+
+.call-header {
+    margin-bottom: 0px;
+}
+
+.call-text {
+    margin-top: 0px;
+    color: #F9FAF8
+}
+
